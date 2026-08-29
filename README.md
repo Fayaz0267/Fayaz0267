@@ -4,9 +4,9 @@
 
 **Aspiring AI/ML Engineer · Full-Stack Developer · CS Undergrad @ St. Peter's Engineering College, Hyderabad**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/shaik-mahammad-fayaz-1009bb338)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaik-mahammad-fayaz-1009bb338)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Shaikfayaz0267@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)]([https://fayazdev.netlify.app/])
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://fayazdev.netlify.app/)
 
 </div>
 
