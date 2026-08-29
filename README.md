@@ -5,8 +5,8 @@
 **Aspiring AI/ML Engineer · Full-Stack Developer · CS Undergrad @ St. Peter's Engineering College, Hyderabad**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Fayaz0267/My_Portfolio)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Shaikfayaz0267@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)]([https://github.com/Fayaz0267/My_Portfolio](https://fayazdev.netlify.app/))
 
 </div>
 
@@ -14,7 +14,7 @@
 
 ## 🤖 About Me
 
-I'm a first-year **Computer Science undergraduate** building at the intersection of **AI/ML and full-stack web development**. My goal is to ship products that are both intelligent and usable — not just models that live in notebooks.
+I'm a third-year **Computer Science undergraduate** building at the intersection of **AI/ML and full-stack web development**. My goal is to ship products that are both intelligent and usable — not just models that live in notebooks.
 
 - 🎯 **Focus:** AI/ML engineering · LLMs · Data-driven web applications
 - 🔭 **Currently:** Exploring internship roles in AI/ML & software development
@@ -89,8 +89,6 @@ I'm a first-year **Computer Science undergraduate** building at the intersection
 <div align="center">
 
 ![Fayaz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fayaz0267&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fayaz0267&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
