@@ -139,8 +139,11 @@ A standalone AI proctoring module designed to plug into an existing college onli
 
 **🤖 AI / ML**
 
-<img src="https://skillicons.dev/icons?i=py,tensorflow,sklearn,pandas,numpy" alt="AI/ML" />
-&nbsp;![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
+<img src="https://skillicons.dev/icons?i=py,tensorflow,sklearn" alt="Python, TensorFlow, scikit-learn" />
+<br/><br/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white" alt="MediaPipe" />
 
 **🌐 Full-Stack**
 
@@ -183,8 +186,6 @@ A standalone AI proctoring module designed to plug into an existing college onli
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fayaz0267&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fayaz0267&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Fayaz0267&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 
 </div>
 
