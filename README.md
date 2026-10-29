@@ -1,19 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hey%2C%20I'm%20Fayaz&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%2FML%20%C2%B7%20Full-Stack%20%C2%B7%20Building%20things%20that%20are%20smart%20AND%20usable&descSize=16&descAlignY=58" alt="Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=170&section=header&text=Hey%2C%20I'm%20Fayaz&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20%C2%B7%20Full-Stack&descSize=18&descAlignY=62" width="100%" alt="Banner" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Aspiring+AI%2FML+Engineer+%F0%9F%A4%96;Full-Stack+Developer+(MERN+%2B+React)+%F0%9F%9A%80;Shipping+AI+products%2C+not+just+notebooks+%F0%9F%93%A6;Open+to+internships+%E2%80%94+let's+talk+%F0%9F%91%8B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=380&height=50&lines=Aspiring+AI%2FML+Engineer+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%9A%80;Shipping+AI+products%2C+not+notebooks;Open+to+internships+%F0%9F%91%8B" alt="Typing SVG" />
 </a>
 
-<br/>
+<p>
+  <a href="https://www.linkedin.com/in/shaik-mahammad-fayaz-1009bb338"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:Shaikfayaz0267@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://fayaz-portfolio-gamma.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaik-mahammad-fayaz-1009bb338)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Shaikfayaz0267@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://fayaz-portfolio-gamma.vercel.app/)
-![Open to Work](https://img.shields.io/badge/Open%20to-Internships-22C55E?style=for-the-badge)
-
-![Profile Views](https://komarev.com/ghpvc/?username=Fayaz0267&label=Profile%20Views&color=0e75b6&style=flat-square)
+<p>
+  <img src="https://img.shields.io/badge/Open%20to-Internships-22C55E?style=flat-square" alt="Open to internships" />
+  <img src="https://komarev.com/ghpvc/?username=Fayaz0267&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+</p>
 
 </div>
 
@@ -25,23 +27,17 @@
 
 I'm a third-year **Computer Science undergraduate** at **St. Peter's Engineering College, Hyderabad**, working at the intersection of **AI/ML** and **full-stack web development**.
 
-| | |
-|---|---|
-| 🎯 **Focus** | AI/ML engineering · LLMs · Computer vision · Data-driven web apps |
-| 🔭 **Now** | Building an AI video proctoring prototype · hunting for AI/ML & SDE internships |
-| 🏆 **Hackathon** | NASSCOM FutureSkills Prime GenAI Forge (2026) |
-| 🌱 **Learning** | Better data, better models, better UX |
-| 📍 **Based in** | Hyderabad, India |
+- 🎯 **Focus:** AI/ML engineering · LLMs · Computer vision · Data-driven web apps
+- 🔭 **Now:** Building an AI video proctoring prototype · hunting for AI/ML & SDE internships
+- 🏆 **Hackathon:** NASSCOM FutureSkills Prime GenAI Forge (2026)
+- 🌱 **Learning:** Better data, better models, better UX
+- 📍 **Based in:** Hyderabad, India
 
 ---
 
 ## 🚧 Currently Building
 
-<table>
-<tr>
-<td>
-
-### 🎥 AI Video Invigilation &nbsp;![Status](https://img.shields.io/badge/status-prototype-F59E0B?style=flat-square)
+### 🎥 AI Video Invigilation ![Status](https://img.shields.io/badge/status-prototype-F59E0B?style=flat-square)
 
 A standalone AI proctoring module designed to plug into an existing college online-exam system.
 
@@ -58,78 +54,45 @@ A standalone AI proctoring module designed to plug into an existing college onli
 
 <!-- Add the repo link once public: [View repo →](https://github.com/Fayaz0267/YOUR_REPO_NAME) -->
 
-</td>
-</tr>
-</table>
-
 ---
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 ### 🍽️ [CampusEats](https://github.com/Fayaz0267/campuseats-frontend)
-*Food ordering platform for college campuses*
-
+Food ordering platform for college campuses.
 - Real-time order tracking
 - Role-based access: **student / vendor / admin**
 
 ![MERN](https://img.shields.io/badge/Stack-MERN-47A248?style=flat-square)
 
-</td>
-<td width="50%" valign="top">
-
 ### 📊 [DataMind](https://github.com/Fayaz0267/DataMind)
-*AI-powered data analytics platform*
-
+AI-powered data analytics platform.
 - Integrated AI analysis layer
 - Interactive dashboards + **natural-language queries**
 
-![MERN](https://img.shields.io/badge/Stack-MERN%20%2B%20AI-47A248?style=flat-square)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+![MERN + AI](https://img.shields.io/badge/Stack-MERN%20%2B%20AI-47A248?style=flat-square)
 
 ### 💳 [PayAI](https://github.com/Fayaz0267/PayAI)
-*AI-integrated financial transaction & payment utility*
-
+AI-integrated financial transaction and payment utility.
 - Smart payment workflows
 - Contextual AI insights
 
 ![TypeScript](https://img.shields.io/badge/Stack-TypeScript-3178C6?style=flat-square)
 
-</td>
-<td width="50%" valign="top">
-
 ### 🗺️ [Incredible India](https://github.com/Fayaz0267/Incredible_India)
-*Tourism & itinerary planning platform*
-
+Tourism and itinerary planning platform.
 - Smart trip planning
 - Location-based recommendations, interactive UI
 
-![Tourism](https://img.shields.io/badge/Domain-Travel-F97316?style=flat-square)
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
+![Travel](https://img.shields.io/badge/Domain-Travel-F97316?style=flat-square)
 
 ### 🌐 [Personal Portfolio](https://fayaz-portfolio-gamma.vercel.app/)
-*Responsive portfolio built for recruiters and hackathon judges*
-
+Responsive portfolio built for recruiters and hackathon judges.
 - Dark/light theme · smooth **Framer Motion** animations · deployed on **Vercel**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -139,19 +102,19 @@ A standalone AI proctoring module designed to plug into an existing college onli
 
 **🤖 AI / ML**
 
-<img src="https://skillicons.dev/icons?i=py,tensorflow,sklearn" alt="Python, TensorFlow, scikit-learn" />
-<br/><br/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white" alt="MediaPipe" />
+<img src="https://skillicons.dev/icons?i=py,tensorflow,sklearn&perline=6" alt="Python, TensorFlow, scikit-learn" />
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white" alt="MediaPipe" />
 
 **🌐 Full-Stack**
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,vite,nodejs,express,mongodb" alt="Full-Stack" />
+<img src="https://skillicons.dev/icons?i=ts,js,react,vite,nodejs,express,mongodb&perline=7" alt="Full-Stack" />
 
 **⚙️ Tools & Deployment**
 
-<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode&perline=4" alt="Tools" />
 
 </div>
 
@@ -159,22 +122,30 @@ A standalone AI proctoring module designed to plug into an existing college onli
 
 ## 💼 Experience
 
-| Role | Organization | Credential ID |
-|---|---|---|
-| 🏢 **Software Engineering Intern** | Embrizon Technologies | `ET2025IC1814` |
+**🏢 Software Engineering Intern** — Embrizon Technologies
+<br/>`Credential ID: ET2025IC1814`
 
 ---
 
 ## 🏅 Certifications & Achievements
 
-| | Credential | Issuer |
-|---|---|---|
-| 🚀 | **GenAI Forge Hackathon** | NASSCOM FutureSkills Prime · `FSP/2026/2702/272` |
-| ☁️ | **Cloud Computing, Elite** | NPTEL · `NPTEL26CS55S956200743` |
-| 🤖 | **AI Skills Passport** | EY × Microsoft |
-| 📈 | **Strategic Planning in the AI Age** | HP LIFE (HP Foundation) |
-| 🛠️ | **Build Your First AI App** | Masters' Union |
-| ⚡ | **AI Tools & ChatGPT Workshop** | be10X |
+- 🚀 **GenAI Forge Hackathon** — NASSCOM FutureSkills Prime
+- ☁️ **Cloud Computing, Elite** — NPTEL
+- 🤖 **AI Skills Passport** — EY × Microsoft
+- 📈 **Strategic Planning in the AI Age** — HP LIFE (HP Foundation)
+- 🛠️ **Build Your First AI App** — Masters' Union
+- ⚡ **AI Tools & ChatGPT Workshop** — be10X
+
+<details>
+<summary><b>View credential IDs</b></summary>
+
+<br/>
+
+- GenAI Forge Hackathon: `FSP/2026/2702/272`
+- Cloud Computing, Elite: `NPTEL26CS55S956200743`
+- Software Engineering Intern: `ET2025IC1814`
+
+</details>
 
 ---
 
@@ -182,10 +153,11 @@ A standalone AI proctoring module designed to plug into an existing college onli
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Fayaz0267&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fayaz0267&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=Fayaz0267&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="420" alt="GitHub Stats" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Fayaz0267&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fayaz0267&layout=compact&theme=tokyonight&hide_border=true" width="320" alt="Top Languages" />
+
+<img src="https://streak-stats.demolab.com/?user=Fayaz0267&theme=tokyonight&hide_border=true" width="420" alt="GitHub Streak" />
 
 </div>
 
@@ -197,11 +169,11 @@ I'm actively looking for **AI/ML and software development internships**. If you'
 
 <div align="center">
 
-**Open to:** &nbsp; Internships &nbsp;·&nbsp; Open Source &nbsp;·&nbsp; Hackathon Teams &nbsp;·&nbsp; Research Collaborations
+**Open to:** Internships · Open Source · Hackathon Teams · Research Collaborations
 
-[![Email me](https://img.shields.io/badge/Email%20me-Shaikfayaz0267%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Shaikfayaz0267@gmail.com)
-[![Connect on LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaik-mahammad-fayaz-1009bb338)
+<a href="mailto:Shaikfayaz0267@gmail.com"><img src="https://img.shields.io/badge/Email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" /></a>
+<a href="https://www.linkedin.com/in/shaik-mahammad-fayaz-1009bb338"><img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer&text=Built%20with%20curiosity%20%C2%B7%20Powered%20by%20caffeine%20%E2%98%95&fontSize=16&fontColor=ffffff&fontAlignY=65" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer&text=Built%20with%20curiosity%20%E2%98%95&fontSize=16&fontColor=ffffff&fontAlignY=65" width="100%" alt="Footer" />
