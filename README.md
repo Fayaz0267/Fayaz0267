@@ -1,27 +1,27 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Shaik%20Mahammad%20Fayaz&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=I%20build%20AI%20that%20people%20can%20actually%20use&descSize=18&descAlignY=60" width="100%" alt="Shaik Mahammad Fayaz" />
+  <img src="./banner.svg" width="100%" alt="Shaik Mahammad Fayaz - I build AI that people can actually use" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=560&height=45&lines=Aspiring+AI%2FML+Engineer+%F0%9F%A7%A0;Full-Stack+Developer+(MERN)+%F0%9F%8C%90;Computer+Vision+%C2%B7+LLMs+%C2%B7+Web+Apps+%F0%9F%91%81%EF%B8%8F;Currently+building+an+AI+proctoring+system+%F0%9F%8E%A5" alt="Typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&repeat=true&width=620&height=45&lines=Aspiring+AI%2FML+Engineer+%F0%9F%A7%A0;Full-Stack+Developer+(MERN)+%F0%9F%8C%90;Computer+Vision+%C2%B7+LLMs+%C2%B7+Web+Apps+%F0%9F%91%81%EF%B8%8F;Currently+building+an+AI+proctoring+system+%F0%9F%8E%A5;Open+to+internships+%E2%80%94+let%27s+talk+%F0%9F%9A%80" alt="Typing animation" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://fayaz-portfolio-gamma.vercel.app/"><img src="https://img.shields.io/badge/%F0%9F%9A%80%20Live%20Portfolio-111827?style=for-the-badge" alt="Live Portfolio" /></a>
+  <a href="https://fayaz-portfolio-gamma.vercel.app/"><img src="https://img.shields.io/badge/%F0%9F%9A%80%20Live%20Portfolio-7C3AED?style=for-the-badge" alt="Live Portfolio" /></a>
   <a href="https://www.linkedin.com/in/shaik-mahammad-fayaz-1009bb338"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:Shaikfayaz0267@gmail.com?subject=Hey%20Fayaz%20%F0%9F%91%8B"><img src="https://img.shields.io/badge/Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:Shaikfayaz0267@gmail.com?subject=Hey%20Fayaz%20%F0%9F%91%8B"><img src="https://img.shields.io/badge/Say%20Hello-DB2777?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20to-Internships-22C55E?style=flat-square" alt="Open to internships" />
-  <img src="https://img.shields.io/badge/3rd%20Year-B.Tech%20CSE-38BDF8?style=flat-square" alt="3rd year B.Tech CSE" />
-  <img src="https://img.shields.io/badge/Hyderabad-India-F97316?style=flat-square" alt="Hyderabad, India" />
-  <img src="https://komarev.com/ghpvc/?username=Fayaz0267&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Open%20to-Internships-16A34A?style=flat-square" alt="Open to internships" />
+  <img src="https://img.shields.io/badge/3rd%20Year-B.Tech%20CSE-0891B2?style=flat-square" alt="3rd year B.Tech CSE" />
+  <img src="https://img.shields.io/badge/Hyderabad-India-7C3AED?style=flat-square" alt="Hyderabad, India" />
+  <img src="https://komarev.com/ghpvc/?username=Fayaz0267&label=Profile%20Views&color=DB2777&style=flat-square" alt="Profile views" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22d3ee,50:8b5cf6,100:f472b6&height=3" width="100%" alt="" />
 
 ## 👋 Hey, I'm Fayaz
 
@@ -35,9 +35,10 @@ Third-year **Computer Science** student at **St. Peter's Engineering College, Hy
 | 🔭 **Building now** | An AI video proctoring system for college exams |
 | 🏆 **Hackathon** | NASSCOM FutureSkills Prime GenAI Forge (2026) |
 | 💼 **Experience** | Software Engineering Intern, Embrizon Technologies |
+| 💬 **Ask me about** | MediaPipe · MERN apps · Flutter + Firebase · Text classification with scikit-learn |
 | 📬 **Looking for** | AI/ML and software development internships |
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22d3ee,50:8b5cf6,100:f472b6&height=3" width="100%" alt="" />
 
 ## 🧭 Pick Your Path
 
@@ -70,11 +71,11 @@ I'm open to **hackathon teams, open source and research collaborations**. If you
 
 <br/>
 
-I took part in the **NASSCOM FutureSkills Prime GenAI Forge (2026)**. I like building end-to-end: model, backend, UI and deployment. Start with **[CampusEats](https://github.com/Fayaz0267/campuseats-frontend)** and **[PayAI](https://github.com/Fayaz0267/PayAI)** to see how I ship.
+I took part in the **NASSCOM FutureSkills Prime GenAI Forge (2026)**. I like building end-to-end: model, backend, UI and deployment. Start with **[PayAI](https://github.com/Fayaz0267/PayAI)** and **[DataMind](https://github.com/Fayaz0267/DataMind)** to see how I ship.
 
 </details>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22d3ee,50:8b5cf6,100:f472b6&height=3" width="100%" alt="" />
 
 ## 🚧 Currently Building
 
@@ -88,47 +89,73 @@ I took part in the **NASSCOM FutureSkills Prime GenAI Forge (2026)**. I like bui
 A standalone AI proctoring module designed to plug into an existing college online-exam system.
 
 ```mermaid
-flowchart TD
+flowchart LR
     A[📷 Webcam feed] --> B[🧠 MediaPipe<br/>face landmarks + gaze]
     B --> C[⚠️ Event detection<br/>gaze, secondary device]
     C --> D[📊 Risk score<br/>LOW to CRITICAL]
     D --> E[🧑‍🏫 Faculty dashboard<br/>events + evidence]
-    E --> F[✅ Faculty makes the final call]
+    E --> F[✅ Faculty makes<br/>the final call]
 
-    style A fill:#0f2027,stroke:#38bdf8,color:#ffffff
-    style B fill:#203a43,stroke:#38bdf8,color:#ffffff
-    style C fill:#203a43,stroke:#f59e0b,color:#ffffff
-    style D fill:#203a43,stroke:#f59e0b,color:#ffffff
-    style E fill:#2c5364,stroke:#22c55e,color:#ffffff
-    style F fill:#14532d,stroke:#22c55e,color:#ffffff
+    style A fill:#0b1020,stroke:#22d3ee,stroke-width:2px,color:#ffffff
+    style B fill:#150f3a,stroke:#8b5cf6,stroke-width:2px,color:#ffffff
+    style C fill:#150f3a,stroke:#f472b6,stroke-width:2px,color:#ffffff
+    style D fill:#150f3a,stroke:#f472b6,stroke-width:2px,color:#ffffff
+    style E fill:#062a3a,stroke:#22d3ee,stroke-width:2px,color:#ffffff
+    style F fill:#14532d,stroke:#4ade80,stroke-width:2px,color:#ffffff
 ```
 
 > **Design principle:** the AI reports *events, confidence and evidence*; **faculty makes the final call**. No single detection is ever labeled "cheating", which keeps false positives low.
 
 <!-- Add the repo link once public: [View repo →](https://github.com/Fayaz0267/YOUR_REPO_NAME) -->
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22d3ee,50:8b5cf6,100:f472b6&height=3" width="100%" alt="" />
 
 ## 🚀 Featured Projects
 
-<p align="center"><i>Click any card to open the repo</i></p>
-
-<p align="center">
-  <a href="https://github.com/Fayaz0267/campuseats-frontend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Fayaz0267&repo=campuseats-frontend&theme=tokyonight&hide_border=true&border_radius=10" width="48%" alt="CampusEats" /></a>
-  <a href="https://github.com/Fayaz0267/DataMind"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Fayaz0267&repo=DataMind&theme=tokyonight&hide_border=true&border_radius=10" width="48%" alt="DataMind" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/Fayaz0267/PayAI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Fayaz0267&repo=PayAI&theme=tokyonight&hide_border=true&border_radius=10" width="48%" alt="PayAI" /></a>
-  <a href="https://github.com/Fayaz0267/Incredible_India"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Fayaz0267&repo=Incredible_India&theme=tokyonight&hide_border=true&border_radius=10" width="48%" alt="Incredible India" /></a>
-</p>
-
-| Project | What it does | Stack |
-|---|---|---|
-| 🍽️ **CampusEats** | Food ordering for college campuses with **real-time order tracking** and **role-based access** for students, vendors and admins | MERN |
-| 📊 **DataMind** | AI-powered analytics platform with interactive dashboards and **natural-language queries** over your data | MERN + AI |
-| 💳 **PayAI** | Financial transaction and payment utility with smart payment workflows and contextual AI insights | TypeScript |
-| 🗺️ **Incredible India** | Tourism and itinerary planning with smart trip planning and location-based recommendations | Interactive web UI |
-| 🌐 **[Personal Portfolio](https://fayaz-portfolio-gamma.vercel.app/)** | Responsive portfolio with dark/light theme and Framer Motion animations, built for recruiters and judges | React · Vite · Framer Motion · Vercel |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🍽️ <a href="https://github.com/Fayaz0267/campuseats-frontend">CampusEats</a></h3>
+      <p>Food ordering for college campuses with <b>real-time order tracking</b> and <b>role-based access</b> for students, vendors and admins.</p>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+      <img src="https://img.shields.io/badge/Express-111827?style=flat-square&logo=express&logoColor=white" alt="Express" />
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>📊 <a href="https://github.com/Fayaz0267/DataMind">DataMind</a></h3>
+      <p>AI-powered analytics platform with interactive dashboards and <b>natural-language queries</b> over your data.</p>
+      <img src="https://img.shields.io/badge/MERN-47A248?style=flat-square" alt="MERN" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/AI-Powered-8B5CF6?style=flat-square" alt="AI powered" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💳 <a href="https://github.com/Fayaz0267/PayAI">PayAI</a></h3>
+      <p>Financial transaction and payment utility with smart payment workflows and <b>contextual AI insights</b>.</p>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/Fintech-22C55E?style=flat-square" alt="Fintech" />
+      <img src="https://img.shields.io/badge/AI-Powered-8B5CF6?style=flat-square" alt="AI powered" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🗺️ <a href="https://github.com/Fayaz0267/Incredible_India">Incredible India</a></h3>
+      <p>An immersive travel guide celebrating India's diverse geography, rich spirituality and world-renowned hospitality.</p>
+      <img src="https://img.shields.io/badge/Travel-F97316?style=flat-square" alt="Travel" />
+      <img src="https://img.shields.io/badge/Interactive-UI-22D3EE?style=flat-square" alt="Interactive UI" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>🌐 <a href="https://fayaz-portfolio-gamma.vercel.app/">Personal Portfolio</a> <sub>· live</sub></h3>
+      <p>Responsive portfolio built for recruiters and hackathon judges, with dark/light theme and smooth Framer Motion animations.</p>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+      <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white" alt="Framer Motion" />
+      <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+    </td>
+  </tr>
+</table>
 
 <details>
 <summary><b>➕ More projects</b></summary>
@@ -140,7 +167,7 @@ flowchart TD
 
 </details>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22d3ee,50:8b5cf6,100:f472b6&height=3" width="100%" alt="" />
 
 ## 🛠️ Tech Stack
 
@@ -169,7 +196,7 @@ flowchart TD
   <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode&theme=dark" alt="Git, GitHub, Vercel, VS Code" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22d3ee,50:8b5cf6,100:f472b6&height=3" width="100%" alt="" />
 
 ## 💼 Experience
 
@@ -177,7 +204,7 @@ flowchart TD
 
 <!-- Add the duration and 1-2 bullets on what you built or shipped, e.g. "Built X using Y, which did Z". -->
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22d3ee,50:8b5cf6,100:f472b6&height=3" width="100%" alt="" />
 
 ## 🏅 Certifications & Achievements
 
@@ -204,17 +231,31 @@ flowchart TD
 
 </details>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22d3ee,50:8b5cf6,100:f472b6&height=3" width="100%" alt="" />
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fayaz0267&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&border_radius=10" width="48%" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fayaz0267&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="38%" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Fayaz0267&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&border_radius=12&bg_color=0b1020&title_color=22d3ee&icon_color=8b5cf6&text_color=cbd5e1&ring_color=f472b6" width="48%" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fayaz0267&layout=compact&hide_border=true&border_radius=12&bg_color=0b1020&title_color=22d3ee&text_color=cbd5e1" width="38%" alt="Top languages" />
 </p>
 
+<details>
+<summary><b>🐍 Contribution snake (click to play)</b></summary>
 
----
+<br/>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fayaz0267/Fayaz0267/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fayaz0267/Fayaz0267/output/github-snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Fayaz0267/Fayaz0267/output/github-snake.svg" width="100%" />
+  </picture>
+</p>
+
+</details>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22d3ee,50:8b5cf6,100:f472b6&height=3" width="100%" alt="" />
 
 ## 🤝 Let's Build Something
 
@@ -224,11 +265,11 @@ flowchart TD
 <p align="center"><b>Open to:</b> Internships · Open Source · Hackathon Teams · Research Collaborations</p>
 
 <p align="center">
-  <a href="mailto:Shaikfayaz0267@gmail.com?subject=Let%27s%20talk%20%F0%9F%91%8B"><img src="https://img.shields.io/badge/%F0%9F%93%A9%20Email%20me-EA4335?style=for-the-badge" alt="Email me" /></a>
+  <a href="mailto:Shaikfayaz0267@gmail.com?subject=Let%27s%20talk%20%F0%9F%91%8B"><img src="https://img.shields.io/badge/%F0%9F%93%A9%20Email%20me-DB2777?style=for-the-badge" alt="Email me" /></a>
   <a href="https://www.linkedin.com/in/shaik-mahammad-fayaz-1009bb338"><img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
-  <a href="https://fayaz-portfolio-gamma.vercel.app/"><img src="https://img.shields.io/badge/See%20my-Portfolio-111827?style=for-the-badge" alt="See my portfolio" /></a>
+  <a href="https://fayaz-portfolio-gamma.vercel.app/"><img src="https://img.shields.io/badge/See%20my-Portfolio-7C3AED?style=for-the-badge" alt="See my portfolio" /></a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer&text=Thanks%20for%20stopping%20by%20%E2%9C%A8&fontSize=16&fontColor=ffffff&fontAlignY=65" width="100%" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f472b6,50:8b5cf6,100:22d3ee&height=110&section=footer&text=Thanks%20for%20stopping%20by%20%E2%9C%A8&fontSize=18&fontColor=ffffff&fontAlignY=65" width="100%" alt="Footer" />
 </p>
