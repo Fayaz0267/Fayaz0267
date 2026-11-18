@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=340&height=40&lines=Aspiring+AI%2FML+Engineer;Full-Stack+Developer+(MERN);Shipping+AI+products%2C+not+notebooks;Open+to+internships" alt="Typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=520&height=40&lines=Aspiring+AI%2FML+Engineer;Full-Stack+Developer+(MERN);Computer+Vision+%C2%B7+LLMs+%C2%B7+Web+Apps" alt="Typing animation" />
   </a>
 </p>
 
@@ -30,7 +30,7 @@
 I'm a third-year **Computer Science undergraduate** at **St. Peter's Engineering College, Hyderabad**, working at the intersection of **AI/ML** and **full-stack web development**.
 
 - 🎯 **Focus:** AI/ML engineering · LLMs · Computer vision · Data-driven web apps
-- 🔭 **Now:** Building an AI video proctoring prototype and looking for AI/ML & SDE internships
+- 🔭 **Now:** Building an AI video proctoring prototype, and looking for AI/ML and SDE internships
 - 🏆 **Hackathon:** NASSCOM FutureSkills Prime GenAI Forge (2026)
 - 🌱 **Learning:** Better data, better models, better UX
 
@@ -71,37 +71,18 @@ flowchart TD
 
 ## 🚀 Featured Projects
 
-### 🍽️ [CampusEats](https://github.com/Fayaz0267/campuseats-frontend)
-![MERN](https://img.shields.io/badge/Stack-MERN-47A248?style=flat-square)
-![Domain](https://img.shields.io/badge/Domain-Campus%20Food-F97316?style=flat-square)
+| Project | What it does | Stack |
+|---|---|---|
+| 🍽️ [**CampusEats**](https://github.com/Fayaz0267/campuseats-frontend) | Food ordering for college campuses with **real-time order tracking** and **role-based access** for students, vendors and admins | MERN |
+| 📊 [**DataMind**](https://github.com/Fayaz0267/DataMind) | AI-powered analytics platform with interactive dashboards and **natural-language queries** over your data | MERN + AI |
+| 💳 [**PayAI**](https://github.com/Fayaz0267/PayAI) | Financial transaction and payment utility with smart payment workflows and contextual AI insights | TypeScript |
+| 🗺️ [**Incredible India**](https://github.com/Fayaz0267/Incredible_India) | Tourism and itinerary planning with smart trip planning and location-based recommendations | Interactive web UI |
+| 🌐 [**Personal Portfolio**](https://fayaz-portfolio-gamma.vercel.app/) | Responsive portfolio for recruiters and hackathon judges, with dark/light theme and Framer Motion animations | React · Vite · Framer Motion · Vercel |
 
-Food ordering platform for college campuses with **real-time order tracking** and **role-based access** for students, vendors and admins.
-
-### 📊 [DataMind](https://github.com/Fayaz0267/DataMind)
-![MERN + AI](https://img.shields.io/badge/Stack-MERN%20%2B%20AI-47A248?style=flat-square)
-![Domain](https://img.shields.io/badge/Domain-Analytics-8B5CF6?style=flat-square)
-
-AI-powered data analytics platform with an integrated AI analysis layer, interactive dashboards and **natural-language queries**.
-
-### 💳 [PayAI](https://github.com/Fayaz0267/PayAI)
-![TypeScript](https://img.shields.io/badge/Stack-TypeScript-3178C6?style=flat-square)
-![Domain](https://img.shields.io/badge/Domain-Fintech-22C55E?style=flat-square)
-
-AI-integrated financial transaction and payment utility with smart payment workflows and contextual AI insights.
-
-### 🗺️ [Incredible India](https://github.com/Fayaz0267/Incredible_India)
-![Domain](https://img.shields.io/badge/Domain-Travel-F97316?style=flat-square)
-![UI](https://img.shields.io/badge/Interactive-UI-38BDF8?style=flat-square)
-
-Tourism and itinerary planning platform with smart trip planning and location-based recommendations.
-
-### 🌐 [Personal Portfolio](https://fayaz-portfolio-gamma.vercel.app/)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
-Responsive portfolio built for recruiters and hackathon judges, with dark/light theme and smooth Framer Motion animations.
+<!--
+Add your ML project here (it strengthens the AI/ML focus):
+| 🕵️ [**AI-Based Fake Job Detection**](https://github.com/Fayaz0267/YOUR_REPO_NAME) | Classifies job postings as genuine or fake from their text | Python · Flask · TF-IDF · Logistic Regression |
+-->
 
 ---
 
@@ -109,7 +90,7 @@ Responsive portfolio built for recruiters and hackathon judges, with dark/light 
 
 <p align="center"><b>🤖 AI / ML</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,tensorflow,sklearn&theme=dark" alt="Python, TensorFlow, scikit-learn" />
+  <img src="https://skillicons.dev/icons?i=py,tensorflow,sklearn,flask&theme=dark" alt="Python, TensorFlow, scikit-learn, Flask" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
@@ -132,7 +113,8 @@ Responsive portfolio built for recruiters and hackathon judges, with dark/light 
 ## 💼 Experience
 
 **🏢 Software Engineering Intern** · Embrizon Technologies
-<br/>`Credential ID: ET2025IC1814`
+
+<!-- Add the duration and 1-2 bullets on what you built or shipped, e.g. "Built X using Y, which did Z". -->
 
 ---
 
@@ -142,19 +124,22 @@ Responsive portfolio built for recruiters and hackathon judges, with dark/light 
   <img src="https://img.shields.io/badge/NASSCOM-GenAI%20Forge%20Hackathon-0A66C2?style=flat-square" alt="NASSCOM GenAI Forge Hackathon" />
   <img src="https://img.shields.io/badge/NPTEL-Cloud%20Computing%20(Elite)-F97316?style=flat-square" alt="NPTEL Cloud Computing Elite" />
   <img src="https://img.shields.io/badge/EY%20x%20Microsoft-AI%20Skills%20Passport-FFE600?style=flat-square&labelColor=2E2E38" alt="EY x Microsoft AI Skills Passport" />
-  <img src="https://img.shields.io/badge/HP%20LIFE-Strategic%20Planning%20in%20the%20AI%20Age-0096D6?style=flat-square" alt="HP LIFE Strategic Planning in the AI Age" />
-  <img src="https://img.shields.io/badge/Masters'%20Union-Build%20Your%20First%20AI%20App-8B5CF6?style=flat-square" alt="Masters' Union Build Your First AI App" />
-  <img src="https://img.shields.io/badge/be10X-AI%20Tools%20%26%20ChatGPT-22C55E?style=flat-square" alt="be10X AI Tools and ChatGPT Workshop" />
 </p>
 
 <details>
-<summary><b>View credential IDs</b></summary>
+<summary><b>More certifications and credential IDs</b></summary>
 
 <br/>
 
+**Credential IDs**
 - GenAI Forge Hackathon (NASSCOM FutureSkills Prime): `FSP/2026/2702/272`
 - Cloud Computing, Elite (NPTEL): `NPTEL26CS55S956200743`
 - Software Engineering Intern (Embrizon Technologies): `ET2025IC1814`
+
+**Other courses and workshops**
+- HP LIFE: Strategic Planning in the AI Age
+- Masters' Union: Build Your First AI App
+- be10X: AI Tools & ChatGPT Workshop
 
 </details>
 
@@ -163,19 +148,8 @@ Responsive portfolio built for recruiters and hackathon judges, with dark/light 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fayaz0267&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="420" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fayaz0267&layout=compact&theme=tokyonight&hide_border=true" width="300" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Fayaz0267&theme=tokyonight&hide_border=true" width="420" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fayaz0267&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117" width="100%" alt="Contribution activity graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Fayaz0267&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fayaz0267&layout=compact&theme=tokyonight&hide_border=true" width="38%" alt="Top languages" />
 </p>
 
 ---
