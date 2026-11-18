@@ -1,17 +1,17 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Hey%2C%20I%27m%20Fayaz&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%2FML%20%C2%B7%20Full-Stack&descSize=18&descAlignY=62" width="100%" alt="Hey, I'm Fayaz" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Shaik%20Mahammad%20Fayaz&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=I%20build%20AI%20that%20people%20can%20actually%20use&descSize=18&descAlignY=60" width="100%" alt="Shaik Mahammad Fayaz" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=520&height=40&lines=Aspiring+AI%2FML+Engineer;Full-Stack+Developer+(MERN);Computer+Vision+%C2%B7+LLMs+%C2%B7+Web+Apps" alt="Typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=560&height=45&lines=Aspiring+AI%2FML+Engineer+%F0%9F%A7%A0;Full-Stack+Developer+(MERN)+%F0%9F%8C%90;Computer+Vision+%C2%B7+LLMs+%C2%B7+Web+Apps+%F0%9F%91%81%EF%B8%8F;Currently+building+an+AI+proctoring+system+%F0%9F%8E%A5" alt="Typing animation" />
   </a>
 </p>
 
 <p align="center">
+  <a href="https://fayaz-portfolio-gamma.vercel.app/"><img src="https://img.shields.io/badge/%F0%9F%9A%80%20Live%20Portfolio-111827?style=for-the-badge" alt="Live Portfolio" /></a>
   <a href="https://www.linkedin.com/in/shaik-mahammad-fayaz-1009bb338"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:Shaikfayaz0267@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://fayaz-portfolio-gamma.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:Shaikfayaz0267@gmail.com?subject=Hey%20Fayaz%20%F0%9F%91%8B"><img src="https://img.shields.io/badge/Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <p align="center">
@@ -23,16 +23,56 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👋 Hey, I'm Fayaz
 
 > *"I want to ship products that are both intelligent and usable, not just models that live in notebooks."*
 
-I'm a third-year **Computer Science undergraduate** at **St. Peter's Engineering College, Hyderabad**, working at the intersection of **AI/ML** and **full-stack web development**.
+Third-year **Computer Science** student at **St. Peter's Engineering College, Hyderabad**, working where **AI/ML** meets **full-stack development**.
 
-- 🎯 **Focus:** AI/ML engineering · LLMs · Computer vision · Data-driven web apps
-- 🔭 **Now:** Building an AI video proctoring prototype, and looking for AI/ML and SDE internships
-- 🏆 **Hackathon:** NASSCOM FutureSkills Prime GenAI Forge (2026)
-- 🌱 **Learning:** Better data, better models, better UX
+| | |
+|---|---|
+| 🎯 **Focus** | AI/ML engineering · LLMs · Computer vision · Data-driven web apps |
+| 🔭 **Building now** | An AI video proctoring system for college exams |
+| 🏆 **Hackathon** | NASSCOM FutureSkills Prime GenAI Forge (2026) |
+| 💼 **Experience** | Software Engineering Intern, Embrizon Technologies |
+| 📬 **Looking for** | AI/ML and software development internships |
+
+---
+
+## 🧭 Pick Your Path
+
+> [!TIP]
+> Short on time? Click what describes you and I'll point you to the best stuff.
+
+<details>
+<summary><b>🧑‍💼 I'm a recruiter or hiring manager</b></summary>
+
+<br/>
+
+1. **[Live portfolio](https://fayaz-portfolio-gamma.vercel.app/)**: a quick overview of everything
+2. **[AI Video Invigilation](#-currently-building)**: my most technical project (computer vision + a real-world workflow)
+3. **[DataMind](https://github.com/Fayaz0267/DataMind)**: full-stack + AI in one product
+4. **[LinkedIn](https://www.linkedin.com/in/shaik-mahammad-fayaz-1009bb338)** or **[email me](mailto:Shaikfayaz0267@gmail.com?subject=Internship%20opportunity)** to talk
+
+</details>
+
+<details>
+<summary><b>🛠️ I want to collaborate or build something</b></summary>
+
+<br/>
+
+I'm open to **hackathon teams, open source and research collaborations**. If your idea involves AI, computer vision or a web product people will really use, [send me a message](mailto:Shaikfayaz0267@gmail.com?subject=Let%27s%20build%20something). I reply fast.
+
+</details>
+
+<details>
+<summary><b>🏆 I'm a hackathon organizer or judge</b></summary>
+
+<br/>
+
+I took part in the **NASSCOM FutureSkills Prime GenAI Forge (2026)**. I like building end-to-end: model, backend, UI and deployment. Start with **[CampusEats](https://github.com/Fayaz0267/campuseats-frontend)** and **[PayAI](https://github.com/Fayaz0267/PayAI)** to see how I ship.
+
+</details>
 
 ---
 
@@ -71,18 +111,34 @@ flowchart TD
 
 ## 🚀 Featured Projects
 
+<p align="center"><i>Click any card to open the repo</i></p>
+
+<p align="center">
+  <a href="https://github.com/Fayaz0267/campuseats-frontend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Fayaz0267&repo=campuseats-frontend&theme=tokyonight&hide_border=true&border_radius=10" width="48%" alt="CampusEats" /></a>
+  <a href="https://github.com/Fayaz0267/DataMind"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Fayaz0267&repo=DataMind&theme=tokyonight&hide_border=true&border_radius=10" width="48%" alt="DataMind" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/Fayaz0267/PayAI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Fayaz0267&repo=PayAI&theme=tokyonight&hide_border=true&border_radius=10" width="48%" alt="PayAI" /></a>
+  <a href="https://github.com/Fayaz0267/Incredible_India"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Fayaz0267&repo=Incredible_India&theme=tokyonight&hide_border=true&border_radius=10" width="48%" alt="Incredible India" /></a>
+</p>
+
 | Project | What it does | Stack |
 |---|---|---|
-| 🍽️ [**CampusEats**](https://github.com/Fayaz0267/campuseats-frontend) | Food ordering for college campuses with **real-time order tracking** and **role-based access** for students, vendors and admins | MERN |
-| 📊 [**DataMind**](https://github.com/Fayaz0267/DataMind) | AI-powered analytics platform with interactive dashboards and **natural-language queries** over your data | MERN + AI |
-| 💳 [**PayAI**](https://github.com/Fayaz0267/PayAI) | Financial transaction and payment utility with smart payment workflows and contextual AI insights | TypeScript |
-| 🗺️ [**Incredible India**](https://github.com/Fayaz0267/Incredible_India) | Tourism and itinerary planning with smart trip planning and location-based recommendations | Interactive web UI |
-| 🌐 [**Personal Portfolio**](https://fayaz-portfolio-gamma.vercel.app/) | Responsive portfolio for recruiters and hackathon judges, with dark/light theme and Framer Motion animations | React · Vite · Framer Motion · Vercel |
+| 🍽️ **CampusEats** | Food ordering for college campuses with **real-time order tracking** and **role-based access** for students, vendors and admins | MERN |
+| 📊 **DataMind** | AI-powered analytics platform with interactive dashboards and **natural-language queries** over your data | MERN + AI |
+| 💳 **PayAI** | Financial transaction and payment utility with smart payment workflows and contextual AI insights | TypeScript |
+| 🗺️ **Incredible India** | Tourism and itinerary planning with smart trip planning and location-based recommendations | Interactive web UI |
+| 🌐 **[Personal Portfolio](https://fayaz-portfolio-gamma.vercel.app/)** | Responsive portfolio with dark/light theme and Framer Motion animations, built for recruiters and judges | React · Vite · Framer Motion · Vercel |
 
-<!--
-Add your ML project here (it strengthens the AI/ML focus):
-| 🕵️ [**AI-Based Fake Job Detection**](https://github.com/Fayaz0267/YOUR_REPO_NAME) | Classifies job postings as genuine or fake from their text | Python · Flask · TF-IDF · Logistic Regression |
--->
+<details>
+<summary><b>➕ More projects</b></summary>
+
+<br/>
+
+- 🕵️ **AI-Based Fake Job Detection System**: ML mini project that flags fake job postings (Flask, TF-IDF, Logistic Regression)
+- 🏢 **Community360**: apartment management app with a maintenance module (Flutter, Firebase)
+
+</details>
 
 ---
 
@@ -101,6 +157,11 @@ Add your ML project here (it strengthens the AI/ML focus):
 <p align="center"><b>🌐 Full-Stack</b></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,react,vite,nodejs,express,mongodb&theme=dark&perline=7" alt="TypeScript, JavaScript, React, Vite, Node.js, Express, MongoDB" />
+</p>
+
+<p align="center"><b>📱 Mobile</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase&theme=dark" alt="Flutter, Dart, Firebase" />
 </p>
 
 <p align="center"><b>⚙️ Tools & Deployment</b></p>
@@ -148,23 +209,33 @@ Add your ML project here (it strengthens the AI/ML focus):
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fayaz0267&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fayaz0267&layout=compact&theme=tokyonight&hide_border=true" width="38%" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Fayaz0267&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&border_radius=10" width="48%" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fayaz0267&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="38%" alt="Top languages" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fayaz0267/Fayaz0267/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fayaz0267/Fayaz0267/output/github-snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Fayaz0267/Fayaz0267/output/github-snake.svg" width="100%" />
+  </picture>
 </p>
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Let's Build Something
 
-I'm actively looking for **AI/ML and software development internships**. If you're building something interesting, I'd love to hear about it.
+> [!IMPORTANT]
+> I'm actively looking for **AI/ML and software development internships**. If you're working on something interesting, I'd love to hear about it.
 
 <p align="center"><b>Open to:</b> Internships · Open Source · Hackathon Teams · Research Collaborations</p>
 
 <p align="center">
-  <a href="mailto:Shaikfayaz0267@gmail.com"><img src="https://img.shields.io/badge/Email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" /></a>
+  <a href="mailto:Shaikfayaz0267@gmail.com?subject=Let%27s%20talk%20%F0%9F%91%8B"><img src="https://img.shields.io/badge/%F0%9F%93%A9%20Email%20me-EA4335?style=for-the-badge" alt="Email me" /></a>
   <a href="https://www.linkedin.com/in/shaik-mahammad-fayaz-1009bb338"><img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+  <a href="https://fayaz-portfolio-gamma.vercel.app/"><img src="https://img.shields.io/badge/See%20my-Portfolio-111827?style=for-the-badge" alt="See my portfolio" /></a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer&text=Built%20with%20curiosity&fontSize=16&fontColor=ffffff&fontAlignY=65" width="100%" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer&text=Thanks%20for%20stopping%20by%20%E2%9C%A8&fontSize=16&fontColor=ffffff&fontAlignY=65" width="100%" alt="Footer" />
 </p>
