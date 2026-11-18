@@ -213,13 +213,6 @@ flowchart TD
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fayaz0267&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="38%" alt="Top languages" />
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fayaz0267/Fayaz0267/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fayaz0267/Fayaz0267/output/github-snake.svg" />
-    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Fayaz0267/Fayaz0267/output/github-snake.svg" width="100%" />
-  </picture>
-</p>
 
 ---
 
