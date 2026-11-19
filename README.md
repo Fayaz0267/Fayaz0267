@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Fayaz0267&label=VISITORS&color=8B5CF6&labelColor=0B1020&style=for-the-badge" alt="Visitor count" />
+</p>
+
+<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&repeat=true&width=620&height=45&lines=Aspiring+AI%2FML+Engineer+%F0%9F%A7%A0;Full-Stack+Developer+(MERN)+%F0%9F%8C%90;Computer+Vision+%C2%B7+LLMs+%C2%B7+Web+Apps+%F0%9F%91%81%EF%B8%8F;Currently+building+an+AI+proctoring+system+%F0%9F%8E%A5;Open+to+internships+%E2%80%94+let%27s+talk+%F0%9F%9A%80" alt="Typing animation" />
   </a>
@@ -18,7 +22,6 @@
   <img src="https://img.shields.io/badge/Open%20to-Internships-16A34A?style=flat-square" alt="Open to internships" />
   <img src="https://img.shields.io/badge/3rd%20Year-B.Tech%20CSE-0891B2?style=flat-square" alt="3rd year B.Tech CSE" />
   <img src="https://img.shields.io/badge/Hyderabad-India-7C3AED?style=flat-square" alt="Hyderabad, India" />
-  <img src="https://komarev.com/ghpvc/?username=Fayaz0267&label=Profile%20Views&color=DB2777&style=flat-square" alt="Profile views" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22d3ee,50:8b5cf6,100:f472b6&height=3" width="100%" alt="" />
